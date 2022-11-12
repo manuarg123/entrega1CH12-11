@@ -1,0 +1,10 @@
+{
+  "name": "pruebas",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "start" : "node user.js",
+    "test"  : "error"
+  }
+}
